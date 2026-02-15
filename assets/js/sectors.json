@@ -1,0 +1,439 @@
+{
+  "sector-1": {
+    "sectorName": "Manufacturing",
+    "pageTitle": "Manufacturing Engineering Services | Mechanical & Industrial Solutions",
+    "metaDescription": "Mechanical engineering services for manufacturing industries, including production line design, machinery engineering, and factory optimization.",
+    "shortDescription": "Engineering solutions for production lines, machinery, and optimized industrial systems.",
+    "imgLink": "images/Manufacturing.webp",
+
+    "overview": {
+      "title": "Manufacturing Sector Overview",
+      "description": "Manufacturing facilities require efficient, reliable, and well-integrated mechanical systems to maintain productivity, reduce downtime, and optimize operational costs. Our engineering team delivers practical solutions aligned with real production requirements and operational constraints.",
+      "focusAreas": [
+        "Production efficiency and workflow optimization",
+        "Machinery reliability and maintainability",
+        "Operational safety and engineering compliance"
+      ]
+    },
+
+    "services": {
+      "sv1": {
+        "serviceName": "Production Line Design & Optimization",
+        "serviceNumber": "01",
+        "serviceIcon": "fa-solid fa-gears",
+        "serviceDescription": "Design and optimization of production lines to improve efficiency, reduce bottlenecks, and ensure smooth process flow across manufacturing operations."
+      },
+      "sv2": {
+        "serviceName": "Industrial Machinery Design",
+        "serviceNumber": "02",
+        "serviceIcon": "fa-solid fa-cogs",
+        "serviceDescription": "Custom mechanical design of industrial machinery tailored to production requirements, focusing on performance, durability, and ease of maintenance."
+      },
+      "sv3": {
+        "serviceName": "Factory Layout & Workflow Optimization",
+        "serviceNumber": "03",
+        "serviceIcon": "fa-solid fa-diagram-project",
+        "serviceDescription": "Planning and optimization of factory layouts to maximize space utilization, improve workflow efficiency, and enhance operational safety."
+      },
+      "sv4": {
+        "serviceName": "Mechanical Design & 2D Drawings",
+        "serviceNumber": "04",
+        "serviceIcon": "fa-solid fa-drafting-compass",
+        "serviceDescription": "Preparation of detailed mechanical designs and 2D fabrication drawings according to engineering standards."
+      },
+      "sv5": {
+        "serviceName": "Fabrication & Manufacturing Support",
+        "serviceNumber": "05",
+        "serviceIcon": "fa-solid fa-industry",
+        "serviceDescription": "Engineering support during fabrication to ensure correct material selection, manufacturing accuracy, and compliance with specifications."
+      },
+      "sv6": {
+        "serviceName": "Installation & Commissioning Assistance",
+        "serviceNumber": "06",
+        "serviceIcon": "fa-solid fa-screwdriver-wrench",
+        "serviceDescription": "Technical support during installation and commissioning to ensure proper system integration and reliable operation."
+      }
+    },
+
+    "process": {
+      "title": "Our Engineering Approach for Manufacturing",
+      "steps": [
+        "Understanding production flow and capacity requirements",
+        "Technical analysis and layout optimization",
+        "Mechanical design and detailed engineering drawings",
+        "Fabrication, installation, and commissioning support"
+      ]
+    },
+
+    "cta": {
+      "title": "Ready to Optimize Your Manufacturing Operations?",
+      "description": "Our engineers are ready to support your production facility with efficient and reliable mechanical solutions.",
+      "buttonText": "Contact Our Engineers"
+    }
+  },
+
+  "sector-2": {
+    "sectorName": "Food & Beverage",
+    "pageTitle": "Food & Beverage Engineering Services | Hygienic Production Lines",
+    "metaDescription": "Hygienic and automated engineering solutions for food and beverage production lines, processing, and packaging systems.",
+    "shortDescription": "Hygienic production lines and automated food processing systems.",
+    "imgLink": "images/Food.webp",
+
+    "overview": {
+      "title": "Food & Beverage Sector Overview",
+      "description": "Food and beverage production requires hygienic, efficient, and automated mechanical systems that comply with strict food safety standards. We design food-grade production lines focused on quality, consistency, and operational efficiency.",
+      "focusAreas": [
+        "Hygienic and food-grade system design",
+        "Automated processing and packaging",
+        "Compliance with food safety regulations"
+      ]
+    },
+
+    "services": {
+      "sv1": {
+        "serviceName": "Food Processing Line Design",
+        "serviceNumber": "01",
+        "serviceIcon": "fa-solid fa-bread-slice",
+        "serviceDescription": "Engineering design of food processing lines with a focus on hygiene, productivity, and compliance with food industry standards."
+      },
+      "sv2": {
+        "serviceName": "Hygienic Equipment & Stainless Steel Design",
+        "serviceNumber": "02",
+        "serviceIcon": "fa-solid fa-shield-virus",
+        "serviceDescription": "Design of hygienic mechanical equipment using stainless steel materials to ensure cleanliness, durability, and easy sanitation."
+      },
+      "sv3": {
+        "serviceName": "Automated Conveying Systems",
+        "serviceNumber": "03",
+        "serviceIcon": "fa-solid fa-arrows-left-right",
+        "serviceDescription": "Automated conveying solutions designed to safely and efficiently transport food products between processing and packaging stages."
+      },
+      "sv4": {
+        "serviceName": "Packaging Line Engineering",
+        "serviceNumber": "04",
+        "serviceIcon": "fa-solid fa-box",
+        "serviceDescription": "Mechanical engineering of packaging lines to improve speed, accuracy, and reliability while maintaining product integrity."
+      },
+      "sv5": {
+        "serviceName": "Plant Layout for Food Facilities",
+        "serviceNumber": "05",
+        "serviceIcon": "fa-solid fa-layer-group",
+        "serviceDescription": "Optimized plant layouts designed to improve workflow efficiency while maintaining hygienic separation zones."
+      },
+      "sv6": {
+        "serviceName": "Compliance-Oriented Mechanical Design",
+        "serviceNumber": "06",
+        "serviceIcon": "fa-solid fa-clipboard-check",
+        "serviceDescription": "Mechanical designs developed in alignment with food safety regulations and industry compliance requirements."
+      }
+    },
+
+    "process": {
+      "title": "Our Engineering Approach for Food Production",
+      "steps": [
+        "Understanding process flow and hygiene requirements",
+        "System layout and equipment selection",
+        "Mechanical design and documentation",
+        "Installation and commissioning support"
+      ]
+    },
+
+    "cta": {
+      "title": "Planning a Food Production Project?",
+      "description": "Let’s discuss hygienic and efficient engineering solutions for your facility.",
+      "buttonText": "Discuss Your Project"
+    }
+  },
+
+  "sector-3": {
+    "sectorName": "Oil & Gas",
+    "pageTitle": "Oil & Gas Mechanical Engineering Services | Industrial Systems",
+    "metaDescription": "Mechanical engineering solutions for oil and gas facilities, including structures, equipment, and industrial systems.",
+    "shortDescription": "Mechanical systems and structures for oil and gas applications.",
+    "imgLink": "images/oil-gas.webp",
+
+    "overview": {
+      "title": "Oil & Gas Sector Overview",
+      "description": "Oil and gas operations demand robust mechanical systems capable of operating under harsh environments and strict safety requirements. We deliver mechanical engineering solutions designed for durability and long-term reliability.",
+      "focusAreas": [
+        "Equipment robustness and safety",
+        "Structural integrity and compliance",
+        "Operation in harsh environments"
+      ]
+    },
+
+    "services": {
+      "sv1": {
+        "serviceName": "Mechanical Equipment Design",
+        "serviceNumber": "01",
+        "serviceIcon": "fa-solid fa-gear",
+        "serviceDescription": "Design of mechanical equipment for oil and gas applications with a focus on robustness, safety, and operational reliability."
+      },
+      "sv2": {
+        "serviceName": "Steel Structures & Skids",
+        "serviceNumber": "02",
+        "serviceIcon": "fa-solid fa-building",
+        "serviceDescription": "Engineering design of steel structures and skids to support heavy equipment and harsh operating conditions."
+      },
+      "sv3": {
+        "serviceName": "Piping Supports & Mechanical Layouts",
+        "serviceNumber": "03",
+        "serviceIcon": "fa-solid fa-pipe",
+        "serviceDescription": "Design of piping supports and mechanical layouts to ensure structural integrity and ease of maintenance."
+      },
+      "sv4": {
+        "serviceName": "Industrial Platforms & Access Systems",
+        "serviceNumber": "04",
+        "serviceIcon": "fa-solid fa-stairs",
+        "serviceDescription": "Design of platforms, walkways, and access systems to enhance safety and accessibility within industrial facilities."
+      },
+      "sv5": {
+        "serviceName": "Equipment Installation Support",
+        "serviceNumber": "05",
+        "serviceIcon": "fa-solid fa-truck-ramp-box",
+        "serviceDescription": "Engineering assistance during equipment installation to ensure proper alignment, integration, and safe operation."
+      },
+      "sv6": {
+        "serviceName": "Maintenance & Retrofit Engineering",
+        "serviceNumber": "06",
+        "serviceIcon": "fa-solid fa-wrench",
+        "serviceDescription": "Engineering solutions for retrofits and maintenance projects aimed at extending equipment service life."
+      }
+    },
+
+    "process": {
+      "title": "Our Engineering Approach for Oil & Gas",
+      "steps": [
+        "Understanding operational and safety requirements",
+        "Technical analysis and system selection",
+        "Mechanical and structural design",
+        "Installation and operational support"
+      ]
+    },
+
+    "cta": {
+      "title": "Need Reliable Oil & Gas Engineering Solutions?",
+      "description": "Our engineers are ready to support your oil and gas operations.",
+      "buttonText": "Talk to Our Team"
+    }
+  },
+
+  "sector-4": {
+    "sectorName": "Material Handling",
+    "pageTitle": "Material Handling Engineering Services | Conveyors & Systems",
+    "metaDescription": "Engineering and design of material handling systems including conveyors, bulk material transport, and warehouse solutions.",
+    "shortDescription": "Conveyor systems and solutions for efficient material flow.",
+    "imgLink": "images/material-handling.webp",
+
+    "overview": {
+      "title": "Material Handling Sector Overview",
+      "description": "Efficient material handling systems are essential for smooth industrial operations and reduced downtime. We design conveyor and handling solutions that integrate seamlessly with existing facilities.",
+      "focusAreas": [
+        "Efficient material flow and throughput",
+        "System integration and automation",
+        "Reliability and ease of maintenance"
+      ]
+    },
+
+    "services": {
+      "sv1": {
+        "serviceName": "Conveyor Systems Design",
+        "serviceNumber": "01",
+        "serviceIcon": "fa-solid fa-arrow-right-arrow-left",
+        "serviceDescription": "Design of belt, screw, and roller conveyor systems to ensure efficient and reliable material transportation."
+      },
+      "sv2": {
+        "serviceName": "Bulk Material Handling Solutions",
+        "serviceNumber": "02",
+        "serviceIcon": "fa-solid fa-dumpster",
+        "serviceDescription": "Engineering solutions for bulk material handling including storage, feeding, and transfer systems."
+      },
+      "sv3": {
+        "serviceName": "Warehouse Material Flow Design",
+        "serviceNumber": "03",
+        "serviceIcon": "fa-solid fa-warehouse",
+        "serviceDescription": "Optimized warehouse layouts and material flow designs to improve logistics efficiency and reduce handling time."
+      },
+      "sv4": {
+        "serviceName": "Loading & Unloading Systems",
+        "serviceNumber": "04",
+        "serviceIcon": "fa-solid fa-truck-loading",
+        "serviceDescription": "Design of safe and efficient loading and unloading systems for industrial and logistics operations."
+      },
+      "sv5": {
+        "serviceName": "Automation Support for Material Handling",
+        "serviceNumber": "05",
+        "serviceIcon": "fa-solid fa-robot",
+        "serviceDescription": "Support for integrating automated solutions into material handling systems to improve productivity."
+      },
+      "sv6": {
+        "serviceName": "System Optimization & Capacity Upgrades",
+        "serviceNumber": "06",
+        "serviceIcon": "fa-solid fa-chart-line",
+        "serviceDescription": "Performance evaluation and system upgrades to increase throughput and operational efficiency."
+      }
+    },
+
+    "process": {
+      "title": "Our Engineering Approach for Material Handling",
+      "steps": [
+        "Material flow analysis and capacity definition",
+        "Conveyor and system layout design",
+        "Mechanical detailing and optimization",
+        "Installation and performance validation"
+      ]
+    },
+
+    "cta": {
+      "title": "Improve Your Material Flow Efficiency",
+      "description": "Let’s engineer reliable material handling systems for your facility.",
+      "buttonText": "View Engineering Solutions"
+    }
+  },
+
+  "sector-5": {
+    "sectorName": "Construction & Heavy Industry",
+    "pageTitle": "Construction & Heavy Industry Engineering Services | Turnkey Plants",
+    "metaDescription": "Engineering services for construction and heavy industries, including concrete batching plants, steel structures, and industrial facilities.",
+    "shortDescription": "Engineering solutions for concrete plants and heavy industrial facilities.",
+    "imgLink": "images/Construction.webp",
+
+    "overview": {
+      "title": "Construction & Heavy Industry Sector Overview",
+      "description": "Heavy industrial projects require large-scale mechanical systems, robust structures, and reliable engineering execution. We support construction and heavy industries with practical and construction-ready solutions.",
+      "focusAreas": [
+        "Structural strength and durability",
+        "Large-scale system integration",
+        "Construction-ready documentation"
+      ]
+    },
+
+    "services": {
+      "sv1": {
+        "serviceName": "Concrete Batching Plant Engineering",
+        "serviceNumber": "01",
+        "serviceIcon": "fa-solid fa-mountain",
+        "serviceDescription": "Engineering design of concrete batching plants with a focus on productivity, durability, and operational efficiency."
+      },
+      "sv2": {
+        "serviceName": "Steel Structure Design",
+        "serviceNumber": "02",
+        "serviceIcon": "fa-solid fa-bridge",
+        "serviceDescription": "Structural design of steel frameworks for industrial and heavy-duty construction projects."
+      },
+      "sv3": {
+        "serviceName": "Heavy Equipment Layout & Integration",
+        "serviceNumber": "03",
+        "serviceIcon": "fa-solid fa-truck-monster",
+        "serviceDescription": "Layout planning and integration of heavy equipment to ensure safe operation and optimized facility performance."
+      },
+      "sv4": {
+        "serviceName": "Turnkey Industrial Plant Solutions",
+        "serviceNumber": "04",
+        "serviceIcon": "fa-solid fa-industry",
+        "serviceDescription": "Complete turnkey engineering solutions covering design, coordination, and delivery of industrial plants."
+      },
+      "sv5": {
+        "serviceName": "Fabrication & Installation Support",
+        "serviceNumber": "05",
+        "serviceIcon": "fa-solid fa-tools",
+        "serviceDescription": "Engineering support during fabrication and installation phases to ensure quality and design compliance."
+      },
+      "sv6": {
+        "serviceName": "Industrial Facility Optimization",
+        "serviceNumber": "06",
+        "serviceIcon": "fa-solid fa-sliders",
+        "serviceDescription": "Assessment and optimization of industrial facilities to improve efficiency, safety, and reliability."
+      }
+    },
+
+    "process": {
+      "title": "Our Engineering Approach for Heavy Industry",
+      "steps": [
+        "Project scope and capacity assessment",
+        "System and structural engineering",
+        "Detailed design and drawings",
+        "Construction and commissioning support"
+      ]
+    },
+
+    "cta": {
+      "title": "Planning a Heavy Industry Project?",
+      "description": "Our engineers are ready to support your industrial facility.",
+      "buttonText": "Start Your Project Discussion"
+    }
+  },
+
+  "sector-6": {
+    "sectorName": "Agriculture & Agro-Industry",
+    "pageTitle": "Agriculture & Agro-Industry Engineering Services | Industrial Machinery",
+    "metaDescription": "Mechanical engineering solutions for agriculture and agro-industries, including machinery, processing lines, and industrial equipment.",
+    "shortDescription": "Machinery and systems for agricultural and agro-industrial operations.",
+    "imgLink": "images/agriculture.webp",
+
+    "overview": {
+      "title": "Agriculture & Agro-Industry Sector Overview",
+      "description": "Agro-industrial operations rely on efficient mechanical systems to support processing, handling, and storage activities. We design machinery and systems optimized for agricultural environments.",
+      "focusAreas": [
+        "Machinery efficiency and durability",
+        "Processing and handling optimization",
+        "Adaptability to agricultural conditions"
+      ]
+    },
+
+    "services": {
+      "sv1": {
+        "serviceName": "Agricultural Machinery Design",
+        "serviceNumber": "01",
+        "serviceIcon": "fa-solid fa-tractor",
+        "serviceDescription": "Design of agricultural machinery tailored to farming and agro-industrial operational requirements."
+      },
+      "sv2": {
+        "serviceName": "Agro-Processing Lines Engineering",
+        "serviceNumber": "02",
+        "serviceIcon": "fa-solid fa-seedling",
+        "serviceDescription": "Engineering of processing lines for agro-products to improve productivity and product quality."
+      },
+      "sv3": {
+        "serviceName": "Grain Handling & Storage Systems",
+        "serviceNumber": "03",
+        "serviceIcon": "fa-solid fa-silo",
+        "serviceDescription": "Design of grain handling and storage systems to ensure safe storage and efficient material flow."
+      },
+      "sv4": {
+        "serviceName": "Conveying Systems for Agro-Industry",
+        "serviceNumber": "04",
+        "serviceIcon": "fa-solid fa-arrows-turn-right",
+        "serviceDescription": "Custom conveying solutions designed specifically for agricultural and agro-industrial environments."
+      },
+      "sv5": {
+        "serviceName": "Equipment Fabrication Support",
+        "serviceNumber": "05",
+        "serviceIcon": "fa-solid fa-hammer",
+        "serviceDescription": "Technical support during fabrication to ensure equipment meets performance and durability requirements."
+      },
+      "sv6": {
+        "serviceName": "Operational Efficiency Optimization",
+        "serviceNumber": "06",
+        "serviceIcon": "fa-solid fa-gauge-high",
+        "serviceDescription": "Engineering assessments aimed at improving operational efficiency and reducing losses."
+      }
+    },
+
+    "process": {
+      "title": "Our Engineering Approach for Agro-Industry",
+      "steps": [
+        "Understanding operational and environmental conditions",
+        "Machinery and system design",
+        "Mechanical detailing and fabrication support",
+        "Installation and operational assistance"
+      ]
+    },
+
+    "cta": {
+      "title": "Enhance Your Agro-Industrial Operations",
+      "description": "Let’s engineer practical solutions for your agricultural facility.",
+      "buttonText": "Contact Our Engineers"
+    }
+  }
+}
