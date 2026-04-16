@@ -6193,5 +6193,19 @@ section {
   }
 }
 /* ========================
+   FIX: Full-width sections
+   ======================== */
+
+section {
+  max-width: 100%;
+  margin: 0;
+}
+
+section > * {
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* ========================
    END OF CONTACT PAGE STYLES
    ======================== */
