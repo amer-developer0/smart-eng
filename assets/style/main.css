@@ -6172,6 +6172,12 @@ section {
   }
 }
 
+
+p {
+  text-align: justify;
+  hyphens: auto; /* بيكسر الكلمات الطويلة بدل ما يمد المسافات */
+  -webkit-hyphens: auto;
+}
 /* ========================
    END OF CONTACT PAGE STYLES
    ======================== */
