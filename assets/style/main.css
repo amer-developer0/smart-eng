@@ -515,6 +515,7 @@ a {
   align-items: center;
   justify-content: center;
   gap: 0.5rem;
+  margin-bottom: 20px !important;
 }
 
 .mobile-contact-btn:hover {
