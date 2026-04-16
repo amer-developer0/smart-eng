@@ -6172,7 +6172,26 @@ section {
   }
 }
 
+/* Additional */
+@media (max-width: 768px) {
+  .in-we-se-card {
+    min-height: unset; /* إلغاء الـ 300px */
+  }
 
+  .in-we-se-img {
+    height: 250px;
+  }
+}
+
+@media (max-width: 480px) {
+  .in-we-se-card {
+    min-height: unset;
+  }
+
+  .in-we-se-img {
+    height: 200px;
+  }
+}
 /* ========================
    END OF CONTACT PAGE STYLES
    ======================== */
